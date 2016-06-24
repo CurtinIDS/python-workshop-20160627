@@ -20,13 +20,9 @@ The workshop is available free of charge to Curtin students and staff. Please fo
 
 1. Loading and analysing a dataset
 
-2. Repeating actions with loops
+2. Making choices
 
-3. Storing and manipulating data
-
-4. Making choices
-
-5. Creating functions
+3. Creating functions
 
 # Install instructions
 
